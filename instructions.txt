@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.prince -DartifactId=testing-microservices -DarchetypeArtifactId=testing-microservices -DarchetypeVersion=1.4 -DinteractiveMode=false
